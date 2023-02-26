@@ -1,2 +1,2 @@
-# Projetos-em-C
-Meu primeiros projetos em C
+# Jogo de Adivinhação
+Meu primeiro projetos em C
